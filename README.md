@@ -22,7 +22,7 @@ You will need to have [Node.js](https://nodejs.org/en) installed to use npm comm
 Clone the project:
 
 ```bash
-  git clone https://github.com/eliasacneto/crazy-race-game
+  git clone https://github.com/eliasacneto/crazy-race-game.git
 ```
 
 Navigate to the project directory:
